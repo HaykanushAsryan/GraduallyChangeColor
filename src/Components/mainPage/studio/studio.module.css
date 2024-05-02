@@ -1,0 +1,59 @@
+.studio {
+    width: 100%;
+    height: 100vh;
+    background: "#545662";
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.processes {
+    width: 80%;
+    height: 250px;
+    /* border: 1px solid #000; */
+    margin: 0 auto;
+
+}
+.hr{
+    width: 100%;
+    height: 2px;
+     border: 1px solid #000000;
+
+}
+.title {
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+}
+.add{
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    border-radius: 50%;
+    text-align:  center;
+    color:  white;
+    font-size: 18px;
+    cursor: pointer;
+}
+.section{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.item{
+    margin:-4px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.circle_line{
+    position: relative;
+}

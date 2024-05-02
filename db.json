@@ -1,0 +1,19 @@
+{
+  "Studio": [
+    {
+      "img": "blob:http://localhost:3000/fe173256-40c9-4959-b7c1-13b023355002",
+      "title": "asdxsa",
+      "color": "#e6eb39",
+      "order": 1,
+      "id": 1
+    },
+    {
+      "img": "blob:http://localhost:3000/e8533c7b-bd73-4259-8900-49796634ae52",
+      "title": "sldck",
+      "color": "#00308F",
+      "order": 2,
+      "id": 2
+    }
+  ],
+  "Subcategory": []
+}

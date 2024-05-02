@@ -1,0 +1,11 @@
+.button {
+    position: absolute;
+    top: 7px;
+    left: 11px;
+    background: transparent;
+    color: orange;
+    border: none;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer
+}
